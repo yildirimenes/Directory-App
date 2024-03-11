@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Directory App</string>
+    <string name="delete">Delete</string>
+    <string name="delete_operation">Are you sure you want to delete this person?</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+
+</resources>
